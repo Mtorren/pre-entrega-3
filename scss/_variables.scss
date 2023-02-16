@@ -1,0 +1,29 @@
+.texto1 {
+    align-items: center;
+        display: flex;
+        justify-content: center;
+        font-family: 'Anton', sans-serif;
+
+        font-size: 50px;
+        color: rgb(225, 225, 225);
+}
+
+.listapelu {
+    justify-content: center;
+    
+    display: flex;
+    height: auto;
+    background-image: url("../multimedia/Logopng.png");
+    background-position: 10px;
+    background-position-x: center;
+
+
+}
+
+
+.listaestetica {
+    background-image: url("../multimedia/Logopng.png");
+    background-position: 10px;
+    background-position-x: center;
+
+}
